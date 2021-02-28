@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bridgelabz.SelectCalenderByJs" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T21:42:12" hostname="DESKTOP-CHEV891" time="66.668">
+  <properties/>
+  <testcase name="selectDate" classname="org.bridgelabz.SelectCalenderByJs" time="66.668"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
